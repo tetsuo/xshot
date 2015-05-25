@@ -15,6 +15,9 @@
     "osx",
     "screenshot"
   ],
+  "bin": {
+    "xshot": "./bin/cmd.js"
+  },
   "author": "Onur Gunduz <ogunduz@gmail.com> (http://onurgunduz.com)",
   "license": "MIT",
   "gypfile": true,
