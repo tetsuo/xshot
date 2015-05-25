@@ -1,6 +1,6 @@
 {
   "name": "xshot",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "takes screenshots on osx",
   "main": "index.js",
   "scripts": {
