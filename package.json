@@ -1,0 +1,31 @@
+{
+  "name": "xshot",
+  "version": "0.1.0",
+  "description": "takes screenshots on osx",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js",
+    "install": "node-gyp rebuild"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tetsuo/xshot.git"
+  },
+  "keywords": [
+    "osx",
+    "screenshot"
+  ],
+  "author": "Onur Gunduz <ogunduz@gmail.com> (http://onurgunduz.com)",
+  "license": "MIT",
+  "gypfile": true,
+  "bugs": {
+    "url": "https://github.com/tetsuo/xshot/issues"
+  },
+  "homepage": "https://github.com/tetsuo/xshot",
+  "dependencies": {
+    "bindings": "^1.2.1",
+    "minimist": "^1.1.1",
+    "nan": "^1.8.4"
+  },
+  "devDependencies": {}
+}

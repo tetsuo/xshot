@@ -1,0 +1,3 @@
+[submodule "deps/gyp"]
+	path = deps/gyp
+	url = https://chromium.googlesource.com/external/gyp.git
